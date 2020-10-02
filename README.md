@@ -1,2 +1,2 @@
-#### SparkAR-360-Portal
-SparkAR World AR filter for #Facebook Hackathon AR
+# Atlantisian-And-The-Mermaid
+This repository holds my spark AR filter for the Facebook AR Hackathon. 
